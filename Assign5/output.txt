@@ -1,0 +1,6 @@
+Number = 8;Total = 8
+Number = 4;Total = 12
+Number = 4;Total = 16
+Number = 6;Total = 22
+Number = -5;Total = 17
+Number = 4;Total = 21
