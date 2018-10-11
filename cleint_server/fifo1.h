@@ -1,6 +1,6 @@
 
 #ifndef _FIFO1_H
-#define _FIFO_H
+#define _FIFO1_H
 
 #include <sys/types.h>
 #include <sys/stat.h>
